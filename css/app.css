@@ -92,3 +92,9 @@ button {
 #give-up:hover {
     background-color: #c7c7c7;
 }
+
+footer {
+    margin-top: 5rem;
+    text-align: center;
+    font-weight: bold;
+}
